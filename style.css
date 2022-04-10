@@ -1,0 +1,22 @@
+.heading{
+    background-color: rosybrown;
+    width:100%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.copy_right_footer{
+    position:fixed;
+    background-color: darkseagreen;
+    bottom:0;
+    width:100%;
+    color: white;
+    line-height:3;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
